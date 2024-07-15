@@ -1,0 +1,139 @@
+2024-06-16 19:24:12 [INFO]: Database connection successful.
+2024-06-16 19:24:12 [INFO]: Event created: Workshop
+2024-06-16 19:24:12 [INFO]: Event created: Book Launch
+2024-06-16 19:24:12 [INFO]: Event created: Movie Night
+2024-06-16 19:24:12 [INFO]: Event created: Kids Story Time
+2024-06-16 19:24:12 [INFO]: Events created and added to the database.
+2024-06-16 19:24:12 [INFO]: Event updated: Updated Workshop
+2024-06-16 19:24:12 [INFO]: Event updated: Updated Workshop
+2024-06-16 19:24:12 [INFO]: Event retrieved: Movie Night
+2024-06-16 19:24:12 [INFO]: Event deleted with ID: 1
+2024-06-16 19:24:12 [INFO]: Event deleted: Book Launch
+2024-06-16 19:24:12 [INFO]: Events updated and deleted in the database.
+2024-06-16 19:24:12 [INFO]: Application ended
+2024-06-16 19:53:38 [INFO]: Database connection successful.
+2024-06-16 19:53:38 [INFO]: Event created: Workshop
+2024-06-16 19:53:38 [INFO]: Event created: Book Launch
+2024-06-16 19:53:38 [INFO]: Event created: Movie Night
+2024-06-16 19:53:38 [INFO]: Event created: Kids Story Time
+2024-06-16 19:53:38 [INFO]: Events created and added to the database.
+2024-06-16 19:53:38 [INFO]: Event updated: Updated Workshop
+2024-06-16 19:53:38 [INFO]: Event updated: Updated Workshop
+2024-06-16 19:53:38 [INFO]: Event retrieved: Movie Night
+2024-06-16 19:53:38 [INFO]: Event deleted with ID: 1
+2024-06-16 19:53:38 [INFO]: Event deleted: Book Launch
+2024-06-16 19:53:38 [INFO]: Events updated and deleted in the database.
+2024-06-16 19:53:38 [INFO]: Application ended
+2024-06-16 20:02:16 [INFO]: Database connection successful.
+2024-06-16 20:02:16 [INFO]: Event created: Workshop
+2024-06-16 20:02:16 [INFO]: Event created: Book Launch
+2024-06-16 20:02:16 [INFO]: Event created: Movie Night
+2024-06-16 20:02:16 [INFO]: Event created: Kids Story Time
+2024-06-16 20:02:16 [INFO]: Events created and added to the database.
+2024-06-16 20:02:16 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:02:16 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:02:17 [INFO]: Event retrieved: Movie Night
+2024-06-16 20:02:17 [INFO]: Event deleted with ID: 1
+2024-06-16 20:02:17 [INFO]: Event deleted: Book Launch
+2024-06-16 20:02:17 [INFO]: Events updated and deleted in the database.
+2024-06-16 20:02:17 [INFO]: Application ended
+2024-06-16 20:04:36 [INFO]: Database connection successful.
+2024-06-16 20:04:36 [INFO]: Event created: Workshop
+2024-06-16 20:04:36 [INFO]: Event created: Book Launch
+2024-06-16 20:04:36 [INFO]: Event created: Movie Night
+2024-06-16 20:04:36 [INFO]: Event created: Kids Story Time
+2024-06-16 20:04:36 [INFO]: Events created and added to the database.
+2024-06-16 20:04:36 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:04:36 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:04:36 [INFO]: Event retrieved: Movie Night
+2024-06-16 20:04:36 [INFO]: Event deleted with ID: 4
+2024-06-16 20:04:36 [INFO]: Event deleted: Kids Story Time
+2024-06-16 20:04:36 [INFO]: Events updated and deleted in the database.
+2024-06-16 20:04:36 [INFO]: Application ended
+2024-06-16 20:04:52 [INFO]: Database connection successful.
+2024-06-16 20:04:52 [INFO]: Event created: Workshop
+2024-06-16 20:04:52 [INFO]: Event created: Book Launch
+2024-06-16 20:04:52 [INFO]: Event created: Movie Night
+2024-06-16 20:04:52 [INFO]: Event created: Kids Story Time
+2024-06-16 20:04:52 [INFO]: Events created and added to the database.
+2024-06-16 20:04:52 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:04:52 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:04:52 [ERROR]: An unexpected error occurred - java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.algonquin.cst8288.assignment2.client.Client.main(Client.java:65)
+2024-06-16 20:04:52 [INFO]: Application ended
+2024-06-16 20:05:15 [INFO]: Database connection successful.
+2024-06-16 20:05:15 [INFO]: Event created: Workshop
+2024-06-16 20:05:15 [INFO]: Event created: Book Launch
+2024-06-16 20:05:15 [INFO]: Event created: Movie Night
+2024-06-16 20:05:15 [INFO]: Event created: Kids Story Time
+2024-06-16 20:05:15 [INFO]: Events created and added to the database.
+2024-06-16 20:05:15 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:05:15 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:05:15 [ERROR]: An unexpected error occurred - java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 4
+	at com.algonquin.cst8288.assignment2.client.Client.main(Client.java:65)
+2024-06-16 20:05:15 [INFO]: Application ended
+2024-06-16 20:05:41 [INFO]: Database connection successful.
+2024-06-16 20:05:41 [INFO]: Event created: Workshop
+2024-06-16 20:05:41 [INFO]: Event created: Book Launch
+2024-06-16 20:05:41 [INFO]: Event created: Movie Night
+2024-06-16 20:05:41 [INFO]: Event created: Kids Story Time
+2024-06-16 20:05:41 [INFO]: Events created and added to the database.
+2024-06-16 20:05:41 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:05:41 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:05:41 [WARN]: Event not found with ID: 4
+2024-06-16 20:05:41 [INFO]: Event deleted with ID: 4
+2024-06-16 20:05:41 [INFO]: Event deleted: Kids Story Time
+2024-06-16 20:05:41 [INFO]: Events updated and deleted in the database.
+2024-06-16 20:05:41 [INFO]: Application ended
+2024-06-16 20:05:50 [INFO]: Database connection successful.
+2024-06-16 20:05:50 [INFO]: Event created: Workshop
+2024-06-16 20:05:50 [INFO]: Event created: Book Launch
+2024-06-16 20:05:50 [INFO]: Event created: Movie Night
+2024-06-16 20:05:50 [INFO]: Event created: Kids Story Time
+2024-06-16 20:05:50 [INFO]: Events created and added to the database.
+2024-06-16 20:05:50 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:05:50 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:05:50 [INFO]: Event retrieved: Movie Night
+2024-06-16 20:05:50 [INFO]: Event deleted with ID: 4
+2024-06-16 20:05:50 [INFO]: Event deleted: Kids Story Time
+2024-06-16 20:05:50 [INFO]: Events updated and deleted in the database.
+2024-06-16 20:05:50 [INFO]: Application ended
+2024-06-16 20:06:36 [INFO]: Database connection successful.
+2024-06-16 20:06:36 [INFO]: Event created: Workshop
+2024-06-16 20:06:36 [INFO]: Event created: Book Launch
+2024-06-16 20:06:36 [INFO]: Event created: Movie Night
+2024-06-16 20:06:36 [INFO]: Event created: Kids Story Time
+2024-06-16 20:06:36 [INFO]: Events created and added to the database.
+2024-06-16 20:06:36 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:06:36 [INFO]: Event updated: Updated Workshop
+2024-06-16 20:06:36 [INFO]: Event retrieved: Movie Night
+2024-06-16 20:06:36 [INFO]: Event deleted with ID: 4
+2024-06-16 20:06:36 [INFO]: Event deleted: Kids Story Time
+2024-06-16 20:06:36 [INFO]: Events updated and deleted in the database.
+2024-06-16 20:06:36 [INFO]: Application ended
+2024-06-19 17:30:17 [INFO]: Database connection successful.
+2024-06-19 17:30:17 [INFO]: Event created: Workshop
+2024-06-19 17:30:17 [INFO]: Event created: Book Launch
+2024-06-19 17:30:17 [INFO]: Event created: Movie Night
+2024-06-19 17:30:17 [INFO]: Event created: Kids Story Time
+2024-06-19 17:30:17 [INFO]: Events created and added to the database.
+2024-06-19 17:30:17 [INFO]: Event updated: Updated Workshop
+2024-06-19 17:30:17 [INFO]: Event updated: Updated Workshop
+2024-06-19 17:30:17 [INFO]: Event retrieved: Movie Night
+2024-06-19 17:30:17 [INFO]: Event deleted with ID: 4
+2024-06-19 17:30:17 [INFO]: Event deleted: Kids Story Time
+2024-06-19 17:30:17 [INFO]: Events updated and deleted in the database.
+2024-06-19 17:30:17 [INFO]: Application ended
+2024-06-19 19:04:26 [INFO]: Database connection successful.
+2024-06-19 19:04:26 [INFO]: Event created: Workshop
+2024-06-19 19:04:26 [INFO]: Event created: Book Launch
+2024-06-19 19:04:26 [INFO]: Event created: Movie Night
+2024-06-19 19:04:26 [INFO]: Event created: Kids Story Time
+2024-06-19 19:04:26 [INFO]: Events created and added to the database.
+2024-06-19 19:04:26 [INFO]: Event updated: Updated Workshop
+2024-06-19 19:04:26 [INFO]: Event updated: Updated Workshop
+2024-06-19 19:04:27 [INFO]: Event retrieved: Movie Night
+2024-06-19 19:04:27 [INFO]: Event deleted with ID: 4
+2024-06-19 19:04:27 [INFO]: Event deleted: Kids Story Time
+2024-06-19 19:04:27 [INFO]: Events updated and deleted in the database.
+2024-06-19 19:04:27 [INFO]: Application ended
